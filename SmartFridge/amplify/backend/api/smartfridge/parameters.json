@@ -1,0 +1,4 @@
+{
+    "AppSyncApiName": "smartfridge",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST"
+}

@@ -1,0 +1,14 @@
+{
+    "aws": {
+        "awscloudformation": {
+            "AuthRoleName": "smartfridge-20190313174308-authRole",
+            "UnauthRoleArn": "arn:aws:iam::695281317295:role/smartfridge-20190313174308-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::695281317295:role/smartfridge-20190313174308-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "smartfridge-20190313174308-deployment",
+            "UnauthRoleName": "smartfridge-20190313174308-unauthRole",
+            "StackName": "smartfridge-20190313174308",
+            "StackId": "arn:aws:cloudformation:us-east-1:695281317295:stack/smartfridge-20190313174308/fd6f67e0-45d8-11e9-a92d-0ed7a3d4fec0"
+        }
+    }
+}
